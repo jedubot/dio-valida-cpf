@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "dio_valida_cpf": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7040",
+      "launchBrowser": false
+    }
+  }
+}
